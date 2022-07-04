@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as t}from"./app.cf930e1c.js";const w='{"title":"Store","description":"","frontmatter":{},"headers":[],"relativePath":"migrations/store.md"}',o={},p=t("",3),e=[p];function c(k,u,l,r,i,d){return a(),n("div",null,e)}var N=s(o,[["render",c]]);export{w as __pageData,N as default};

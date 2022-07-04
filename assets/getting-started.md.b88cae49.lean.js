@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,a as s}from"./app.cf930e1c.js";const h='{"title":"Getting started","description":"","frontmatter":{},"headers":[],"relativePath":"getting-started.md"}',n={},o=s("",6),i=[o];function c(r,d,l,p,_,u){return a(),e("div",null,i)}var m=t(n,[["render",c]]);export{h as __pageData,m as default};

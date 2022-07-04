@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as n,a as s}from"./app.cf930e1c.js";const f='{"title":"Release notes v0.0.103","description":"","frontmatter":{},"headers":[{"level":3,"title":"In closing","slug":"in-closing"}],"relativePath":"releases/0.0.103.md"}',t={},o=s("",46),r=[o];function i(p,l,c,d,u,h){return n(),a("div",null,r)}var y=e(t,[["render",i]]);export{f as __pageData,y as default};
