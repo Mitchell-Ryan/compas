@@ -1,6 +1,6 @@
 {
   "name": "@compas/stdlib",
-  "version": "0.0.216",
+  "version": "0.0.217",
   "description": "All kinds of utility functions",
   "main": "./index.js",
   "exports": {
@@ -17,10 +17,10 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@types/node": "18.8.3",
+    "@types/node": "18.11.8",
     "dotenv": "16.0.3",
     "lodash.merge": "4.6.2",
-    "pino": "8.6.1"
+    "pino": "8.7.0"
   },
   "author": {
     "name": "Dirk de Visser",
